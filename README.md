@@ -2,7 +2,7 @@
 
 I'm [Jan Škoruba](https://skoruba.com). I am working on open source projects primary related to identity and access control. 
 
-I am very interested in [@openid](https://github.com/openin) 🔐 • [@oauth2](https://github.com/oauth2) 🔒 • [@dotnet](https://github.com/dotnet) 🚀 • [@reactjs](https://github.com/reactjs) ⚛
+I am interested in [@openid](https://github.com/openin) 🔐 • [@oauth2](https://github.com/oauth2) 🔒 • [@dotnet](https://github.com/dotnet) 🚀 • [@reactjs](https://github.com/reactjs) ⚛
 
 ## Support me 💖
 
