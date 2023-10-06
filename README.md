@@ -4,7 +4,7 @@ I'm [Jan Škoruba](https://skoruba.com). I am working on open source projects pr
 
 I am interested in [@openid](https://github.com/openin) 🔐 • [@oauth2](https://github.com/oauth2) 🔒 • [@dotnet](https://github.com/dotnet) 🚀 • [@reactjs](https://github.com/reactjs) ⚛
 
-## Support me 💖
+## Support me 🚀
 
 It makes me so happy to see that my projects interest someone else and together we are building something useful.
 
