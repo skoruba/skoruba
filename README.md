@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm [Jan Škoruba](https://skoruba.com), a developer passionate about **Identity, OpenID Connect, OAuth2**, and **modern authentication**.
+
 I create **open-source tools** built with **.NET** and **React** to make identity development easier.
 
 💡 I enjoy sharing knowledge and contributing to the open-source community.
