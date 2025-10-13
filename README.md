@@ -1,11 +1,23 @@
 ## Hi there 👋
 
-I'm [Jan Škoruba](https://skoruba.com). I am working on open source projects primary related to identity and access control. 
+I'm [Jan Škoruba](https://skoruba.com) — a developer passionate about **Identity, OpenID Connect, OAuth2, and modern authentication**.
+I love building **open source projects** that make identity management easier for everyone.
 
-I am interested in [@openid](https://github.com/openid) 🔐 • [@oauth2](https://github.com/oauth2) 🔒 • [@dotnet](https://github.com/dotnet) 🚀 • [@reactjs](https://github.com/reactjs) ⚛
+I'm currently working with **.NET**, **React**, and various **OpenID/OAuth** technologies to create tools that are both powerful and developer-friendly.
 
-## Support me 🚀
+💡 I believe in sharing knowledge, building in public, and contributing to the open-source community.
 
-It makes me so happy to see that my projects interest someone else and together we are building something useful.
+---
 
-If you like my work you can support me by donation on [paypal](https://www.paypal.com/paypalme/skoruba) or [patreon](https://patreon.com/skoruba). Thank you. 👍
+## Support my work ⚡️
+
+I truly appreciate everyone who finds value in my projects.
+Your support helps me dedicate more time to building, maintaining, and improving open-source tools for developers.
+
+You can support my work through:
+
+* 🚀 [GitHub Sponsors](https://github.com/sponsors/skoruba)
+* ☕ [PayPal](https://www.paypal.com/paypalme/skoruba)
+* 🎯 [Patreon](https://patreon.com/skoruba)
+
+Thank you for helping me continue developing open-source software for the community 🙏
