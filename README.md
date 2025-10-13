@@ -12,7 +12,7 @@ I'm currently working with **.NET**, **React**, and various **OpenID/OAuth** tec
 
 ## Support my work ⚡️
 
-I truly appreciate everyone who finds value in my projects.
+I appreciate everyone who finds value in my projects.
 Your support helps me dedicate more time to building, maintaining, and improving open-source tools for developers.
 
 You can support my work through:
