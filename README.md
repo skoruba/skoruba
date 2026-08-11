@@ -1,4 +1,4 @@
-# Hi, I’m Jan 👋
+# Hi, I’m Jan Skoruba 👋
 
 I build open-source tools for **Identity**, **OpenID Connect**, **OAuth 2.1**, and modern authentication using **.NET & React**.
 
