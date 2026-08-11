@@ -1,19 +1,13 @@
-## Hi there 👋
+# Hi, I’m Jan 👋
 
-I'm [Jan Škoruba](https://skoruba.com), a developer passionate about **Identity, OpenID Connect, OAuth2**, and **modern authentication**.
+I build open-source tools for *Identity*, OpenID Connect, OAuth 2.1, and modern authentication using .NET & React.
 
-I create **open-source tools** built with **.NET** and **React** to make identity development easier.
+🌐 skoruba.com
 
-💡 I enjoy sharing knowledge and contributing to the open-source community.
+⸻
 
----
+# Support my work 🕊️
 
-## Support my work ⚡️
-
-If you like my projects, you can support me via:
-
-* 🚀 [GitHub Sponsors](https://github.com/sponsors/skoruba)
-* ☕ [PayPal](https://www.paypal.com/paypalme/skoruba)
-* 🎯 [Patreon](https://patreon.com/skoruba)
-
-Thanks for your support! 🙏
+<a href="https://github.com/sponsors/skoruba">
+  <img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor%20my%20work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors">
+</a>
