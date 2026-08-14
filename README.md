@@ -4,8 +4,6 @@ I build open-source tools for **Identity**, **OpenID Connect**, **OAuth 2.1**, a
 
 🌐 [skoruba.com](https://skoruba.com)
 
-⸻
-
 ## Support my work 🕊️
 
 <a href="https://github.com/sponsors/skoruba">
